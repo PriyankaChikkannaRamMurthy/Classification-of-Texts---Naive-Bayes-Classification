@@ -1,8 +1,11 @@
 # Classification-of-Texts---Naive-Bayes-Classification
 
 Environment: Python 3.6
+
 IDE used : Pycharm
+
 Libraries used: nltk.corpus, sklearn.metrics, re, numpy
+
 
 1. Problem Sections:
 • Loading Netnews text articles Dataset and reading it
@@ -26,6 +29,7 @@ Also, classification report is jotted down using the sklearn library with testin
 
 
 References:
+
 https://stackoverflow.com/questions/16819222/how-to-return-dictionary-keys-as-a-list-in-python
 https://www.saltycrane.com/blog/2007/09/how-to-sort-python-dictionary-by-keys/
 https://docs.quantifiedcode.com/python-antipatterns/readability/not_using_items_to_iterate_over_a_dictionary.html
